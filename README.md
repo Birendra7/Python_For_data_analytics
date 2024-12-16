@@ -70,8 +70,8 @@ This is a comprehensive resource for beginners and intermediate learners to gain
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/python-for-data-analytics.git
-   cd python-for-data-analytics
+   git clone https://github.com/Birendra7/Python_For_data_analytics
+   cd Python_For_data_analytics
    ```  
 
 2. Install dependencies:  
